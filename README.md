@@ -1,5 +1,5 @@
-# fer-web2-lab5
-Peta laboratorijska vježba - Napredni razvoj programske potpore za web
+
+# Peta laboratorijska vježba - Napredni razvoj programske potpore za web
 
 Aplikacija se pokreće pomoću naredbe `npm run dev`.
 
